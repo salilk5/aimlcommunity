@@ -1,0 +1,66 @@
+
+Q7: What are dependent and independent varibles in our dataset?
+
+Independent variables : Income per month, State, Age,Sex 
+
+Dependent variables : Number of Siblings
+
+
+Q8: Mention all your finding from the above given heatmap.
+
+
+1)People with higher income per month tend to have less number of siblings
+
+2)People with higher income are likely to be younger
+
+3)People who are older are likely to have more siblings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
