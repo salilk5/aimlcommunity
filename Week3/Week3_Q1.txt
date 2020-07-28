@@ -1,0 +1,46 @@
+Gaussian Distribution
+
+The Normal distribution or the Gaussian distribution is a probability function that describes how values of a variable
+are distributed. It is a symmetric distribution where most of the data points are around the central peak and values away from the mean taper off equally in both the directions
+
+Two main parameters define the Gaussian distribution
+
+A)Mean
+
+It is the central tendency of the distribution.It defines the location of the peak for the normal distribution
+Most values are concentrated around the mean.
+
+
+B)Standard Deviation
+
+It is a measure of variability and defines the width of the distribution. It determines how far away from the mean
+the values tend to fall. It represents the average distance between observation and image.
+
+By formula : It is the square root of the variance
+
+
+Variance is defined as : Average of the squared differences from the Mean
+
+1)Work out the Mean:  Simple average of the numbers
+
+2)For each number : Subtract the Mean and square the result
+
+3)Work out the average of the squared differences
+
+
+
+
+
+
+Binomial Distribution
+
+A binomial distribution can be described as the probability of a SUCCESS or FAILURE outcome in an experiment that is repeated multiple times. It is a type of distribution that has two possible outcomes (“Bi” means two,or twice). 
+
+
+The following criteria must be met
+
+The number of observations or trials is fixed
+
+Each trial is independent.
+
+The probability of success (tails, heads, fail or pass) is the same from one trial to another.
